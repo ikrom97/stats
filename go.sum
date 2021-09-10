@@ -1,4 +1,2 @@
-github.com/ikrom97/bank v0.0.0-20210909220358-674d149a0f93 h1:dlKErsg895KndaaynT48G3IEb3NM/w1VgXSrBgwHSm8=
-github.com/ikrom97/bank v0.0.0-20210909220358-674d149a0f93/go.mod h1:DjnrMhaEUXHDQNaVtnfjmyPuqwcCjaT3gdqSjRzdDaQ=
-github.com/ikrom97/bank v0.0.0-20210909225240-cc53204f637b h1:Q8vKIlGc5Vo7Wv+ziGvQ72gJiw6ywGykrNhDPGyvymc=
-github.com/ikrom97/bank v0.0.0-20210909225240-cc53204f637b/go.mod h1:DjnrMhaEUXHDQNaVtnfjmyPuqwcCjaT3gdqSjRzdDaQ=
+github.com/ikrom97/bank/v2 v2.0.0 h1:s6blJ9OmnJ32PHVG9f+2Ydbo3kJ5rjWnSwwvlc4j0vk=
+github.com/ikrom97/bank/v2 v2.0.0/go.mod h1:rjDkuSyA7p4Hmip48JIU+PjyWQ0ykOtrGTcwryL9t4E=
